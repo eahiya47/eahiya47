@@ -34,6 +34,10 @@ Currently focused on learning new technologies and leveraging AI-assisted tools 
   <a href="https://www.linkedin.com/in/eahiya/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
+
+  <a href="https://leetcode.com/u/Eahiya/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 </div>
 <br clear="all" />
