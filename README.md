@@ -5,14 +5,17 @@
   Hi, I'm <strong>Mohamed Eahiya</strong>
 </h1>
 
-<h3>Developer | JAVA • Python • Full Stack</h3>
+<h3>Developer | JAVA • Full Stack</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a Computer Science Engineering student with a strong interest in software development. I work primarily with Core Java and Spring Boot, building RESTful applications using layered architecture and database integration.
+
+I have experience with SQL, data structures, and frontend fundamentals, and enjoy working on full-stack projects and collaborative environments like academic projects and hackathons.
+
+Currently focused on learning new technologies and leveraging AI-assisted tools to improve coding, debugging, and overall development skills.
   </p>
 
   <p>
