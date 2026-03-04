@@ -34,9 +34,7 @@
   </a>
 </p>
 </div>
-
 <br clear="all" />
-
 
 ## 🛠️ Skills
 <p align="center">
