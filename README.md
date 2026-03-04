@@ -8,7 +8,7 @@
 <h3>Developer | JAVA • Full Stack</h3>
 
 <div align="left">
- <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+ <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
   <p>
     I'm a Computer Science Engineering student with a strong interest in software development. I work primarily with Core Java and Spring Boot, building RESTful applications using layered architecture and database integration.
