@@ -33,8 +33,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
-
 </div>
 
 <br clear="all" />
@@ -47,7 +45,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=java,c++,python,html,css" />
+ <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css" />
 <br/><br/>
 
 </td>
@@ -83,10 +81,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
-</div>
+>
 
 ---
 
